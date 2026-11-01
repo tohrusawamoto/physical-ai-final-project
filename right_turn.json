@@ -1,0 +1,6 @@
+[
+  {"action": "forward", "duration": 3.0},
+  {"action": "right", "duration": 4.0},
+  {"action": "forward", "duration": 3.0},
+  {"action": "stop", "duration": 1.0}
+]

@@ -1,0 +1,4 @@
+[
+  {"action": "forward", "duration": 2.0},
+  {"action": "stop", "duration": 1.0}
+]
